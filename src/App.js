@@ -4,7 +4,7 @@ import './App.css';
 import Form from "./components/Form";
 import Recipes from "./components/Recipes";
 
-const API_KEY = "e2bb187c1d6942a516815e87c446c0ca";
+const API_KEY = "YOUR_API_KEY";
 
 class App extends Component {
   state = {
